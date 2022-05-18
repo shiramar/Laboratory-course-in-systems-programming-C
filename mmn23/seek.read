@@ -1,0 +1,2 @@
+The program receives from the user a list of files and a number.
+Returns the husky character's husky code at the location of the number enclosed in each of the files.
